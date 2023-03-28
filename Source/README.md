@@ -1,0 +1,17 @@
+This folder contains the source code.
+
+## Requirements
+
+- Python 3.8.12
+- matplotlib == 3.5.0
+- numpy == 1.21.2
+- pandas == 1.3.4
+- sklearn == 1.0.1
+- torch == 1.12.0
+- scipy == 1.7.3
+- seaborn == 0.11.2
+
+Dependencies can be installed using the following command:
+```bash
+pip install -r requirements.txt
+```
