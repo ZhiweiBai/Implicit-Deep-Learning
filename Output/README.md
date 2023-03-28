@@ -1,2 +1,2 @@
-这个文件夹放实验的一些需要保存的结果。
-每次实验都新建一个文件夹，用来保存这次实验的结果。
+This folder contains some experimental results that need to be saved.
+Each experiment creates a new folder to save the results of this experiment.
